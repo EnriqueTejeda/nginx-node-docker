@@ -6,6 +6,8 @@ This is an Alpine based container image running Nginx reversing proxy with Node 
 |-----|-------|-----|--------|--------|
 | latest | master | 1.12.2 | 11.9.0 | 3.9 |
 | latest-lts | master-lts | 1.12.2 | 10.15.1 LTS | 3.9 |
+| 18-lts | master-lts | 1.12.2 | 10.15.1 LTS | 3.9 |
+
 
 ## Building from source
 To build from source you need to clone the git repo and run docker build:
